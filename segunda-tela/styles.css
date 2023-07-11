@@ -1,0 +1,27 @@
+body, html {
+    height: 100%;
+}
+
+.screen2 {
+    height: 100vh;
+    background-color: white;
+}
+
+h1, h2 {
+    color: #00122C;
+}
+
+.login-btn {
+    background-color: #00122C;
+    color: white;
+}
+
+a {
+    color: #00122C;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #00122C;
+    text-decoration: underline;
+}
